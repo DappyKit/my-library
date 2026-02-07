@@ -53,3 +53,7 @@ To make this library your own, you'll need to change the following:
 - Write tests for your library's code in the `test/` directory. Jest is configured to read all files in this directory that match the pattern `*.test.ts`.
 
 This template should give you a strong starting point for building a library that can run in both Node.js and the browser. Happy coding!
+
+---
+
+Try [YumCut](https://yumcut.com)! This is an AI video generator that turns a single prompt into a ready-to-post vertical short video in minutes. It creates the script, images, voice-over, subtitles, and edits everything into a final clip automatically. It’s built for fast testing and making lots of variations without spending hours in an editor.
